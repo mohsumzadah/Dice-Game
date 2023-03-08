@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: #353540;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    margin-top: 30px;
+    color: #45C398;
+    font-weight: bold;
+    font-size: 8rem;
+    margin: 20px;
+}
+
+p {
+    color: #4EBA97;
+    font-size: 2rem;
+}
+
+.dice {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.dice img{
+    visibility: hidden;
+}
